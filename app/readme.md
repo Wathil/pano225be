@@ -1,0 +1,1 @@
+npm install express mongoose mongoose-paginate-v2 body-parser cors
